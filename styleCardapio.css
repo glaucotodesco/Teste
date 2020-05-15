@@ -1,0 +1,134 @@
+.alert.alert.alert-success{
+   margin-bottom: 2px;
+   margin-left: 0px;
+   position: relative;
+   margin-left: initial;
+   margin-right: auto;
+   background-image: url("fundo-rotacionado-cardapio.png");
+}
+.alert.alert.alert-success h2{
+    font-size: 50px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body h3{
+    text-align: center;
+}
+.container-md{
+    background-color: khaki;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 0px;
+}
+.container-md .alert.alert-success{
+    text-align: center;
+    font-weight: bold;
+    padding: 0px;
+}
+.carousel-inner h3, p{
+    color:#7FFF00;
+    font-weight: bold;
+}
+#carouselSite img{
+    max-width: 100%;
+    width: 100%;
+    height: 450px;
+    padding: 0px;
+    border: 1px solid;
+    border-color: khaki;
+}
+.escolha1{
+    bottom:200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 50px;
+    width: 50%;
+    float: left;
+    position: relative;
+    padding-left: 20%;
+}
+.escolha1 h3{
+    margin-bottom: 42px;
+    margin-right:100px;
+}
+.escolha2{
+    bottom:200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 50px;
+    width: 50%;
+    float: left;
+    position: relative;
+    
+}
+.escolha2 .selectAcompanha{
+    margin-left:133px;
+
+}
+.escolha2 h3{
+    margin-bottom: 42px;
+}
+
+.convenioEmpresas{
+    margin-top: 13em;
+    margin-bottom: 0em;
+    margin-left: 430px;
+    margin-bottom: 130px;
+}
+
+#prato-principal{
+    box-sizing: border-box;
+    letter-spacing: 5px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 120px;
+    text-transform: initial;
+
+    
+}
+
+.convenioEmpresas h3{
+    margin-right:460px;
+    
+}
+#convenio{
+    background-color: palegoldenrod;
+    border: palegoldenrod;
+    height: 110px;
+    overflow-y: hidden;
+    text-align: center;
+    padding-left: none;
+    padding-right: none;
+    margin-left: 500px;
+}
+
+.escolha1 h3{
+    margin-left: 30px;
+}
+.escolha2 h3{
+    margin-right: 30px;
+}
+.bloco-obs{
+    margin-top: 1em;
+    
+}
+.bloco-obs textarea{
+    border: 2x solid #888;
+    background: center center no-repeat;
+    background-color: white;  
+}
+
+.botaoEnviar{
+    text-align: center;
+    margin-top: 1em;
+}
+.btn .btn-primary{
+    color: seagreen;
+}
